@@ -1,6 +1,6 @@
 <html>
 <head> <title> HOME </title> 
-<link rel="stylesheet" href="css/style.css" type="text/css"/>
+<link rel="stylesheet" href="/css/style.css" type="text/css"/>
 </head>
 <body>
 <a href="https://ccsarra.github.io/ccgsarra.github.io/">
